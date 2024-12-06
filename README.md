@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para testar a API do CineStream, garantindo que os
 
 ## **Projeto Cine Stream Cucumber Test**
 #### **Repositório do projeto** [Cine Stream](https://github.com/dev-luizotavio/Cine-Stream-Test.git)
-#### **Repositório do projeto** [Cine Stream Cucumber Testes](https://github.com/Priscila-Santos/CineStream-CucumberTest)
+#### **Repositório do projeto** [Cine Stream Cucumber Testes](https://github.com/dev-luizotavio/CineStream-CucumberTest.git)
 
 1. Clone o repositório:
    ```bash
